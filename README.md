@@ -23,10 +23,12 @@
 
 ### 📁 Progetti in Evidenza
 
-#### 📈 In Sviluppo | Business Case: Financial & Sales Performance Analytics
-> **Stack previsto:** SQL | Python (Pandas, Seaborn) | Tableau / Power BI | Business Strategy  
-> Progetto end-to-end incentrato sull'analisi di redditività aziendale, marginalità di prodotto, clustering della clientela e sviluppo di una dashboard interattiva con raccomandazioni strategiche.
-
+#### 📊 [Corporate ESG & Financial Performance Analysis](https://github.com/marcoiaccarino/esg-financial-performance-analysis)
+**Tech Stack**: SQL (Google BigQuery) | Microsoft Power BI | Microsoft Excel | Data Governance  
+Analisi end-to-end su un panel globale di 1.000 aziende (11.000 record, 2015–2025) per quantificare la correlazione tra maturità ESG e redditività aziendale.
+* **Key Insights**: Dimostrato uno spread operativo di **+200 bps** e una riduzione del rischio di perdita (5,6% vs 8,8%) a favore dei *Leader ESG*.
+* **Deliverables**: Report interattivo Power BI a due viste con cross-filtering avanzato, script SQL analitici e piano operativo di ROI/mitigazione del rischio CSRD.
+* **Link Rapidi**: [Visualizza Repository](https://github.com/marcoiaccarino/esg-financial-performance-analysis) | [📄 Scarica Executive Report (PDF)](https://github.com/marcoiaccarino/esg-financial-performance-analysis/blob/main/Executive_Report.pdf)
 ---
 
 ### 📫 Contatti
