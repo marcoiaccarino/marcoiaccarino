@@ -35,7 +35,10 @@ Analisi comparativa economico-patrimoniale e modellazione predittiva del rischio
 * **Key Insights:** Evidenziata asimmetria strutturale: leadership di cassa netta di Airbus (-3,2 Mld€ PFN) a fronte di una marginalità lorda superiore (EBITDA 11,6% vs 10,3%) e forte deleveraging per Leonardo (DF/MP a 0,43).
 * **Deliverables:** Pipeline Python per riclassificazione bilanci (Valore Aggiunto/Funzionale), 12 indici finanziari, Distress Score e Dashboard Plotly 2x2 dark-themed ad alta definizione.
 * **Link Rapidi:** [Visualizza Repository](https://github.com/marcoiaccarino/corporate-financial-health-leonardo-analysis)
-
+### 📊 [Financial & Procurement Executive Dashboard](https://github.com/marcoiaccarino/supply-chain-commodity-risk-monitor)
+* **Stack:** Tableau Desktop/Public, Financial Modeling, COGS/EBITDA Variance, Risk Hedging
+* **Live Demo:** [Tableau Public Interactive Dashboard](https://public.tableau.com/app/profile/marco.iaccarino/viz/FinancialProcurementExecutiveDashboard/Dashboard1)
+* **Descrizione:** Modello BI esecutivo per PMI industriali volto a correlare la redditività operativa aziendale (Target EBITDA 60%) alla volatilità delle materie prime (Metalli, Energia, Soft Commodities) tramite parametri dinamici, medie mobili e riconciliazione contabile QA.
 ---
 
 ### 📫 Contatti
